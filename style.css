@@ -1,0 +1,27 @@
+body { 
+    background-color: aqua;
+}
+#navbar {
+    background-color:rgb(255, 47, 220);
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navspace {
+    padding-right: 15px;
+    color: rgb(43, 42, 42);
+}
+
+
+#footer {
+    background-color:rgb(255, 47, 220);
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footerspace {
+    padding-right: 15px;
+    color: rgb(43, 42, 42);
+}
